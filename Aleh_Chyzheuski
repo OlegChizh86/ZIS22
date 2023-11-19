@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>CV Chyzheuski Aleh</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+<header>
+<h1>CV Chyzheuski Aleh provisor</h1>
+</header>
+
+<aside>
+<img src="IMG_20230902_184455_977.jpg" alt="Oleg_chizh" title="">
+<h3>Contact information:</h3>
+<address>
+   Phone: +375293903308<br>
+   Telegram: https://t.me/Oleg_chizh <br>
+   Email: gridgrod@mail.ru <br>
+   GitHub: OlegChizh86
+</address>
+</aside>
+<main>
+
+<p>There is no work experience in the IT field. 
+<br>I study at Sukhoi State Technical University because of my desire to develop as a person. 
+<br>I am sure that this education will be useful to me in my life.
+</p><br>
+<p>Graduated from Vitebsk State Medical University (VSMU) 2014.</p>
+<br>
+<p>I experimented with my own websites on the free hosting of UCOZ.</p>
+<br>
+<p>The level of English is approximately A2. I'm learning English in the Duolingo app.</p>
+<img src="Screenshot_20231119_225335_Duolingo.jpg" alt="Oleg_chizh" title="">
+
+<p>At the moment I work as the Acting Head of the department at the pharmacy warehouse of UP "Pharmacy".</p>
+<br>
+<p>I acquire IT skills by studying at this university. There are small skills in HTML/CSS and .NET C#.</p>
+</main>
+<footer>
+<p>The report was prepared by Oleg Chizhevsky</p>
+</footer>
+</body>
+</html>
